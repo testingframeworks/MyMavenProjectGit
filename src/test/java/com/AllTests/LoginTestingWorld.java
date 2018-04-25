@@ -27,7 +27,7 @@ public class LoginTestingWorld  {
 		
 		@AfterMethod
 		public void afterMet(){
-		//	driver.close();
+			driver.close();
 			
 		}
 		@Test
